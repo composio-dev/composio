@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       name:
-        description: 'Name to greet'
+        description: Name to greet
         required: false
-        default: 'World'
+        default: World
       environment:
-        description: 'Deployment environment'
+        description: Deployment environment
         required: false
-        default: 'development'
+        default: development
 
 jobs:
   greet:

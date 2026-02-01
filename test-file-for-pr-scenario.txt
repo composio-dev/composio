@@ -1,0 +1,3 @@
+This file was created to test the base branch modification scenario.
+Timestamp: 2026-02-01T18:38:53Z
+Purpose: Testing stale PR head SHA when base branch is modified.
